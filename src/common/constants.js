@@ -1,0 +1,11 @@
+export const CONSTANTS = {
+  _USER_LOGIN_: '_USER_LOGIN_',
+  GET: 'GET',
+  POST: 'POST',
+  PUT: 'PUT',
+  DELETE: 'DELETE',
+  RESTORE: 'RESTORE',
+  EXIT: 'EXIT',
+  CONTINUE: "CONTINUE",
+  ITEM_PER_PAGE: 10
+};
